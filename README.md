@@ -71,6 +71,20 @@ The **Furniture Management Platform** is a comprehensive solution designed to ma
 
 ---
 
+🔧 Getting Started
+
+### Prerequisites
+- **Java 8+**: Required for Spring MVC.
+- **MySQL**: Database for storing data.
+- **Apache Tomcat**: To deploy the application.
+
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/LeThanhCong1506/FurnitureStore.git
+
+---
+
 📷 Screenshots
 
 1.Home Page:
