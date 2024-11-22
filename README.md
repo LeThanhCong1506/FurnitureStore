@@ -74,7 +74,8 @@ The **Furniture Management Platform** is a comprehensive solution designed to ma
 📷 Screenshots
 
 1.Home Page:
-(https://github.com/user-attachments/assets/567a8c21-2f7b-4598-a9ab-ab439f3e2e56)
+https://github.com/user-attachments/assets/567a8c21-2f7b-4598-a9ab-ab439f3e2e56
+
 (https://github.com/user-attachments/assets/710c9934-becc-48a8-ae41-b10f385cca29)
 
 2.Product Details:
@@ -82,6 +83,7 @@ The **Furniture Management Platform** is a comprehensive solution designed to ma
 
 3.Cart:
 (https://github.com/user-attachments/assets/af3ee2b2-4d7a-481a-bfd7-c0e4805de07f)
+
 (https://github.com/user-attachments/assets/16b06217-b2fe-448f-a2ed-ea1ecca1d612)
 
 4.Checkout:
